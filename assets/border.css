@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;   
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#imgBin {
+    width: 50vh;
+    height: 60%;
+    cursor: pointer;
+}
